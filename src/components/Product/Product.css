@@ -1,0 +1,40 @@
+.product-container{
+    width: 300px;
+    height: 550px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+}
+
+.product-container>img{
+    width: 290px;
+    height: 280px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.product-name{
+    margin: 10px;
+}
+
+.product-price{
+    margin: 10px;
+}
+
+.product-seller{
+    margin: 10px;
+}
+
+.product-rating{
+    margin: 10px;
+}
+
+.product-btn{
+    min-width: 100%;
+    background: #FFE0B3;
+    color: black;
+    border: 1px solid #95A0A7;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    bottom: 0;
+}
