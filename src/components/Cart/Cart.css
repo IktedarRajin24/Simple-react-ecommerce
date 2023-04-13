@@ -1,0 +1,15 @@
+.order-info{
+    text-align: left;
+}
+
+.clear-btn {
+    width: 90%;
+    background-color: red;
+    margin: 25px 0;
+    padding: 5px auto;
+}
+.review-btn {
+    width: 90%;
+    background-color: orange;
+    padding: 5px auto;
+}
